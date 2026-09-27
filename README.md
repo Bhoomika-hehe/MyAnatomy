@@ -3,4 +3,6 @@ Mini Project 1-Perform Explolatory Data Analysis on Covid-19 Dataset.
               -Files:
               cleaned_covid_india.csv
               covid19_EDA.ipynb
-Mini Project 2-
+Mini Project 2-Practised Statistics on dummy sales data
+              -Files:
+              statistics_miniproject.ipynb
